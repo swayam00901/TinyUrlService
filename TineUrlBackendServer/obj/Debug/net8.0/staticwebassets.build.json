@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kxcRWa7tvEOw9weqYCTHaaBodtRm2QogNAxkUyl1H0w=",
+  "Source": "TineUrlBackendServer",
+  "BasePath": "_content/TineUrlBackendServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

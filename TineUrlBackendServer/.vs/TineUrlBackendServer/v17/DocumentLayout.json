@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\TineUrlBackendServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797527A9-1C06-651C-DBC6-47382203EA44}|..\\TinyUrl\\TinyUrl.csproj|c:\\users\\dell\\source\\repos\\tinyurl\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797527A9-1C06-651C-DBC6-47382203EA44}|..\\TinyUrl\\TinyUrl.csproj|c:\\users\\dell\\source\\repos\\tinyurl\\services\\urlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797527A9-1C06-651C-DBC6-47382203EA44}|..\\TinyUrl\\TinyUrl.csproj|c:\\users\\dell\\source\\repos\\tinyurl\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797527A9-1C06-651C-DBC6-47382203EA44}|..\\TinyUrl\\TinyUrl.csproj|c:\\users\\dell\\source\\repos\\tinyurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797527A9-1C06-651C-DBC6-47382203EA44}|..\\TinyUrl\\TinyUrl.csproj|c:\\users\\dell\\source\\repos\\tinyurl\\services\\iurlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797527A9-1C06-651C-DBC6-47382203EA44}|..\\TinyUrl\\TinyUrl.csproj|c:\\users\\dell\\source\\repos\\tinyurl\\models\\urlentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.md",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\ReadMe.md",
+              "RelativeDocumentMoniker": "..\\TinyUrl\\ReadMe.md",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\ReadMe.md",
+              "RelativeToolTip": "..\\TinyUrl\\ReadMe.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-10T00:04:26.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrlController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Controllers\\UrlController.cs",
+              "RelativeDocumentMoniker": "..\\TinyUrl\\Controllers\\UrlController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Controllers\\UrlController.cs",
+              "RelativeToolTip": "..\\TinyUrl\\Controllers\\UrlController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:51:54.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUrlService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Services\\IUrlService.cs",
+              "RelativeDocumentMoniker": "..\\TinyUrl\\Services\\IUrlService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Services\\IUrlService.cs",
+              "RelativeToolTip": "..\\TinyUrl\\Services\\IUrlService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:51:29.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Services\\UrlService.cs",
+              "RelativeDocumentMoniker": "..\\TinyUrl\\Services\\UrlService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Services\\UrlService.cs",
+              "RelativeToolTip": "..\\TinyUrl\\Services\\UrlService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvzsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:47:16.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrlEntry.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Models\\UrlEntry.cs",
+              "RelativeDocumentMoniker": "..\\TinyUrl\\Models\\UrlEntry.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Models\\UrlEntry.cs",
+              "RelativeToolTip": "..\\TinyUrl\\Models\\UrlEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:47:13.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TinyUrl\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TinyUrl\\Program.cs",
+              "RelativeToolTip": "..\\TinyUrl\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:47:04.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

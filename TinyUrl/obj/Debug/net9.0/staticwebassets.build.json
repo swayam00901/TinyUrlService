@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O4WhTMfqp97yEMIY2E5DUACgdLoVH6SAe/KqJnidZAc=",
+  "Source": "TinyUrl",
+  "BasePath": "_content/TinyUrl",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

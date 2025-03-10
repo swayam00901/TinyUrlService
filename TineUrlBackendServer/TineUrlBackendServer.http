@@ -1,0 +1,6 @@
+@TineUrlBackendServer_HostAddress = http://localhost:5250
+
+GET {{TineUrlBackendServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
